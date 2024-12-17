@@ -1,4 +1,4 @@
-This package utilizes the This package utilizes the MF-J method to simultaneously solve for the co-seismic fault geometry and slip parameters. The fault geometric parameters are obtained through Markov Chain Monte Carlo (MCMC) sampling, while the hyperparameters and slip parameters are determined using the Variance Component Estimation (VCE) method.
+This package utilizes the MF-J method to simultaneously solve for the co-seismic fault geometry and slip parameters. The fault geometric parameters are obtained through Markov Chain Monte Carlo (MCMC) sampling, while the hyperparameters and slip parameters are determined using the Variance Component Estimation (VCE) method.
 
 To use the package, you only need to modify the main_ file* to input the following:
 
