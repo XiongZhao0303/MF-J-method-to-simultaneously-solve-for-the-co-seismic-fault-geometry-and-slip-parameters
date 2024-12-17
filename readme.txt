@@ -100,6 +100,6 @@ For any issues regarding the program, please contact the first author, **Zhao Xi
 
 ### Citation
 
-Zhao, X., Zhou, L., Xu, C., et al. (2024). Modified Bayesian method for simultaneously imaging fault geometry and slip distribution with reduced uncertainty, applied to the 2017 Mw 7.3 Sarpol-e Zahab (Iran) earthquake. *Journal of Geodesy*, 98, 106. [https://doi.org/10.1007/s00190-024-01906-6](https://doi.org/10.1007/s00190-024-01906-6)
+Zhao, X., Zhou, L., Xu, C., et al. (2024). Modified Bayesian method for simultaneously imaging fault geometry and slip distribution with reduced uncertainty, applied to the 2017 Mw 7.3 Sarpol-e Zahab (Iran) earthquake. *Journal of Geodesy*, 98, 106. [https://link.springer.com/article/10.1007/s00190-024-01906-6)
 
 ---
