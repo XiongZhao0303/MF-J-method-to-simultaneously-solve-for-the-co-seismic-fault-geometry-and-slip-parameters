@@ -66,7 +66,7 @@ Displays the results of the fault slip distribution and calculates key quantitie
 The program provides four actual earthquake examples for reference:
 
 1. 2017 Iran M7.3 earthquake
-2. 2022 Kashi earthquake (Mw 6.0)
+2. 2022 jiashi earthquake (Mw 6.0)
 3. 2024 Wushi earthquake, Xinjiang (Mw 7.0)
 4. 2022 Mw 6.0 twin-fault earthquake in Hormozgan, Iran
 
