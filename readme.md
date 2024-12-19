@@ -75,7 +75,7 @@ Modify the **main_ file** to input the following parameters:
 The program includes four actual earthquake cases for reference:
 
 1. **2017 Iran M7.3 earthquake**
-2. **2022 Kashi earthquake (Mw 6.0)**
+2. **2020 Jiashi earthquake (Mw 6.0)**
 3. **2024 Wushi earthquake, Xinjiang (Mw 7.0)**
 4. **2022 Mw 6.0 doublet-fault earthquake in Hormozgan, Iran**
 
